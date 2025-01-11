@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Screen Sound": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
